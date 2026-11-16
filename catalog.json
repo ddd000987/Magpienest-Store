@@ -1,0 +1,99 @@
+{
+    "schema":  1,
+    "bundles":  [
+                    {
+                        "id":  "magpienest.imagewindow",
+                        "name":  {
+                                     "en":  "Image window",
+                                     "zh-TW":  "圖片視窗"
+                                 },
+                        "description":  {
+                                            "en":  "Open a picture in its own borderless window that stays where you put it.",
+                                            "zh-TW":  "把圖片開在獨立的無邊框視窗，放在哪裡就停在哪裡。"
+                                        },
+                        "author":  "Magpienest contributors",
+                        "version":  "0.1.0",
+                        "apiVersion":  1,
+                        "plugins":  [
+                                        {
+                                            "id":  "magpienest.imagewindow",
+                                            "size":  22173,
+                                            "url":  "https://github.com/ddd000987/Magpienest-Store/releases/download/magpienest.imagewindow-0.1.0/magpienest.imagewindow-0.1.0.zip",
+                                            "sha256":  "53c0412be3bb04208a2b83477e7edec5725a241e341e193ee8589d834b449cd0"
+                                        }
+                                    ]
+                    },
+                    {
+                        "id":  "magpienest.video",
+                        "name":  {
+                                     "en":  "Videos",
+                                     "zh-TW":  "影片"
+                                 },
+                        "description":  {
+                                            "en":  "Collect and play your videos, continuing where you stopped.",
+                                            "zh-TW":  "收藏並播放影片，從上次停下的地方繼續。"
+                                        },
+                        "author":  "Magpienest contributors",
+                        "version":  "0.1.0",
+                        "apiVersion":  1,
+                        "plugins":  [
+                                        {
+                                            "id":  "magpienest.mediaengine.libvlc",
+                                            "size":  45995064,
+                                            "url":  "https://github.com/ddd000987/Magpienest-Store/releases/download/magpienest.video-0.1.0/magpienest.mediaengine.libvlc-0.1.0.zip",
+                                            "sha256":  "fdb25936335c2d5d7e0f1b2f73692f99382597e2192e3a4d8f50383f89d57dfc"
+                                        },
+                                        {
+                                            "id":  "magpienest.video",
+                                            "size":  40815,
+                                            "url":  "https://github.com/ddd000987/Magpienest-Store/releases/download/magpienest.video-0.1.0/magpienest.video-0.1.0.zip",
+                                            "sha256":  "117b94f182b4c5653270bc3fcac9a8b2c27a1ba7242c8a973e32c9582e7a4473"
+                                        }
+                                    ]
+                    },
+                    {
+                        "id":  "magpienest.game",
+                        "name":  {
+                                     "en":  "Games",
+                                     "zh-TW":  "遊戲"
+                                 },
+                        "description":  {
+                                            "en":  "Collect your games, start them from Magpienest and track play time.",
+                                            "zh-TW":  "收藏遊戲，從鵲藏啟動並記錄遊玩時間。"
+                                        },
+                        "author":  "Magpienest contributors",
+                        "version":  "0.1.0",
+                        "apiVersion":  1,
+                        "plugins":  [
+                                        {
+                                            "id":  "magpienest.game",
+                                            "size":  51539,
+                                            "url":  "https://github.com/ddd000987/Magpienest-Store/releases/download/magpienest.game-0.1.0/magpienest.game-0.1.0.zip",
+                                            "sha256":  "b3651dbfe64ad8fb14d43d7b2bdf157c033139e5e612ca9d932f23bab49a2552"
+                                        }
+                                    ]
+                    },
+                    {
+                        "id":  "magpienest.webui",
+                        "name":  {
+                                     "en":  "Web interface",
+                                     "zh-TW":  "網頁介面"
+                                 },
+                        "description":  {
+                                            "en":  "Browse, read and watch your library from a phone or another computer.",
+                                            "zh-TW":  "用手機或其他電腦瀏覽、閱讀和觀看你的收藏。"
+                                        },
+                        "author":  "Magpienest contributors",
+                        "version":  "0.1.0",
+                        "apiVersion":  1,
+                        "plugins":  [
+                                        {
+                                            "id":  "magpienest.webui",
+                                            "size":  1351236,
+                                            "url":  "https://github.com/ddd000987/Magpienest-Store/releases/download/magpienest.webui-0.1.0/magpienest.webui-0.1.0.zip",
+                                            "sha256":  "3ab3eef6ec4aa6ad6c35ea0e62ade13de7659e878fa3578db87cda0f4c1d1c4c"
+                                        }
+                                    ]
+                    }
+                ]
+}
