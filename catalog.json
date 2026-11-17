@@ -84,14 +84,14 @@
                                             "zh-TW":  "用手機或其他電腦瀏覽、閱讀和觀看你的收藏。"
                                         },
                         "author":  "Magpienest contributors",
-                        "version":  "0.1.0",
+                        "version":  "0.1.1",
                         "apiVersion":  1,
                         "plugins":  [
                                         {
                                             "id":  "magpienest.webui",
-                                            "size":  1351236,
-                                            "url":  "https://github.com/ddd000987/Magpienest-Store/releases/download/magpienest.webui-0.1.0/magpienest.webui-0.1.0.zip",
-                                            "sha256":  "3ab3eef6ec4aa6ad6c35ea0e62ade13de7659e878fa3578db87cda0f4c1d1c4c"
+                                            "size":  1359334,
+                                            "url":  "https://github.com/ddd000987/Magpienest-Store/releases/download/magpienest.webui-0.1.1/magpienest.webui-0.1.1.zip",
+                                            "sha256":  "4fb843668f0b7c547f0830bb9fd306bd3313bbb5597a6b4191b402362f7bae30"
                                         }
                                     ]
                     }
